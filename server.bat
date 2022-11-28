@@ -1,0 +1,1 @@
+python -c "import os,sys;sys.path.append(os.getcwd());import server;server.main()" TCP 1025

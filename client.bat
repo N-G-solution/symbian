@@ -1,0 +1,1 @@
+python -c "import client;client.main()" localhost 1025 
